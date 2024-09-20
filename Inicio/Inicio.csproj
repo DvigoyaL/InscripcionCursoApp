@@ -9,7 +9,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\VistaConsola\VistaConsola.csproj" />
-    <ProjectReference Include="..\VistaEscritorio\VistaEscritorio.csproj" />
   </ItemGroup>
 
 </Project>
